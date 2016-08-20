@@ -1,4 +1,3 @@
-layout_spectrum: 0.9944562318269163
 typography_spectrum: 0.036262754583731294
 color:
   brandStrength: 0.9491289670113474
@@ -6,9 +5,11 @@ color:
   saturation: 0.4134284856263548
   rhythmicContrast: 0.2047691331245005
   brandColors:
-    - '#405952'
-    - '#9C9B7A'
-    - '#FFD393'
-    - '#FF974F'
-    - '#F54F29'
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+layout_spectrum: 0.9944562318269163
 name: Catorama
+description: All about cats & kittens!
