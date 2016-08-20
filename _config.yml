@@ -1,0 +1,14 @@
+layout_spectrum: 0.9944562318269163
+typography_spectrum: 0.036262754583731294
+color:
+  brandStrength: 0.9491289670113474
+  lightness: 0.7733311711344868
+  saturation: 0.4134284856263548
+  rhythmicContrast: 0.2047691331245005
+  brandColors:
+    - '#405952'
+    - '#9C9B7A'
+    - '#FFD393'
+    - '#FF974F'
+    - '#F54F29'
+name: Catorama
